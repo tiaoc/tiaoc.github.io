@@ -395,6 +395,30 @@
   </li>
   {%- endif -%}
 
+  {%- if network[0] == "leetcode" -%}
+  <li class="list-inline-item">
+    <a href="https://leetcode.cn/u/{{ network[1] }}" title="Leetcode">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <img src="/assets/img/leetcode.svg" alt="LeetCode" style="width:24px;height:24px;">
+      </span>
+      <span class="sr-only">Leetcode</span>
+   </a>
+  </li>
+  {%- endif -%}
+
+  {%- if network[0] == "csdn" -%}
+  <li class="list-inline-item">
+    <a href="https://blog.csdn.net/{{ network[1] }}" title="CSDN">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <img src="/assets/img/csdn.svg" alt="CSDN" style="width:24px;height:24px;">
+      </span>
+      <span class="sr-only">CSDN</span>
+   </a>
+  </li>
+  {%- endif -%}
+
 {%- endfor -%}
 
 </ul>
