@@ -49,8 +49,8 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   github: tiaoc
-  leetcode: https://leetcode.cn/u/ge-wu/
-  csdnZ: https://blog.csdn.net/m3113940
+  leetcode: ge-wu
+  csdnZ: m3113940
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
