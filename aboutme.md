@@ -4,13 +4,12 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Clive. I currently work as a programmer in an internet company. Here are a few qualities that define me:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+* Interest in History and Economics: I love exploring how past events shape our world today.
+* Enthusiasm for Learning: I'm always eager to discover new things, whether it's a skill or an interesting fact.
+* Open-Mindedness: I embrace new experiences and ideas.
 
-What else do you need?
+### My Story
 
-### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
