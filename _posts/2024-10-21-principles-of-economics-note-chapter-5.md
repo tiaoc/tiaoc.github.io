@@ -1,7 +1,7 @@
 # 第五篇 企业行为和产业组织
 ## 第十三章 生产成本
 会计利润包含了经济利润和隐性成本。
-![economic_profit](/assets/img/economic_profit.jpg/ "economic profit")  
+![economic_profit](/assets/img/economic_profit.jpg)  
 经济学家考率隐性的机会成本。  
 
 ### 成本曲线
@@ -9,8 +9,7 @@
 2. 平均总成本曲线是U形的。
 3. 边际成本曲线与平均总成本曲线在平均总成本的最低点处相交。
   
-![short_run_cost_curve](/assets/img/short_run_cost_curve.png/ "short run cost curve")
-
+![short_run_cost_curve](/assets/img/short_run_cost_curve.png)
 ## 第十四章 竞争市场上的企业
 竞争市场买者和卖者都是价格接受者。
 
