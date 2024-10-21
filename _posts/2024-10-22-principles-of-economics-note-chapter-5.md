@@ -7,8 +7,10 @@
 ### 成本曲线
 1. 边际成本随产量上升而上升。
 2. 平均总成本曲线是U形的。
-3. 边际成本曲线与平均总成本曲线在平均总成本的最低点处相交。  
-![short_run_cost_curve](/assets/img/short_run_cost_curve.png/ "short run cost curve")  
+3. 边际成本曲线与平均总成本曲线在平均总成本的最低点处相交。
+  
+![short_run_cost_curve](/assets/img/short_run_cost_curve.png/ "short run cost curve")
+
 ## 第十四章 竞争市场上的企业
 竞争市场买者和卖者都是价格接受者。
 
