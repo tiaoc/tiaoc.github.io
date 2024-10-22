@@ -9,5 +9,6 @@
      "gitlens.blame.dateFormat": "YYYY-MM-DD",
     ```  
     ctrl shift p  blame 打开
+    代码中右键 file annotations   toggle file blame  打开
 
-2. 使用快捷键 Shift + Alt + F（在 macOS 上是 Shift + Option + F）来格式化整个文件。
+3. 使用快捷键 Shift + Alt + F（在 macOS 上是 Shift + Option + F）来格式化整个文件。
