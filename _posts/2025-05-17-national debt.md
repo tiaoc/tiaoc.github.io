@@ -1,4 +1,13 @@
-
+---
+layout: post
+title: 曼昆经济学原理第八版宏观分册学习记录-national debt 国债
+subtitle: 
+cover-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/path.jpg
+tags: [economics, note]
+author: clive
+---
 
 2025年3月31日，央行开展8000亿元买断式逆回购操作（3个月期5000亿、6个月期3000亿），释放以下信号：
 
