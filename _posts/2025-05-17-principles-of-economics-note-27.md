@@ -1,3 +1,16 @@
+---
+layout: post
+title: 曼昆经济学原理第八版宏观分册学习记录
+subtitle: 
+cover-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/path.jpg
+tags: [economics, note]
+author: clive
+---
+
+读书笔记
+27章 金融学的基本工具
 信息有效（informationally efficient）
 答：信息有效指以理性的方式反映有关资产价值的所有可获得的信
 息。根据有效市场假说，股票市场是信息有效的。当信息改变时，股票
