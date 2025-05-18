@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 曼昆经济学原理第八版宏观分册学习记录-national debt 国债
+title: 央行公开市场买入卖出国债理解
 subtitle: 
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
