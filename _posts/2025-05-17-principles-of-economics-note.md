@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 曼昆经济学原理第八版宏观分册学习记录
+title: 曼昆经济学原理第八版宏观分册25章学习记录
 subtitle: 
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
